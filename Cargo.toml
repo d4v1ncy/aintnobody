@@ -1,0 +1,18 @@
+[package]
+name = "aintnobody"
+version = "0.0.0"
+edition = "2021"
+authors = ["Đ4ⱱ1ƝƇᎩ <d4v1ncy@protonmail.ch>"]
+description = "Plays snippet of \"ain't nobody\" for 1284 milliseconds and die"
+documentation = "https://docs.rs/aintnobody"
+readme = "README.md"
+homepage = "https://github.com/th0ughtcr1me/aintnobody"
+
+
+[dependencies]
+rodio = { version = "0.17.3", features = ["minimp3"] }
+rust-embed = "8.0.0"
+
+[lib]
+name = "aintnobody"
+path = "src/lib.rs"
