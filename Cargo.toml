@@ -1,10 +1,10 @@
 [package]
 name = "aintnobody"
-version = "0.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["Đ4ⱱ1ƝƇᎩ <d4v1ncy@protonmail.ch>"]
 license = "Unlicense"
-description = "Plays snippet of \"ain't nobody\" for 1284 milliseconds and die"
+description = "Plays snippet of \"ain't nobody\" for 1284 milliseconds or so and die"
 documentation = "https://docs.rs/aintnobody"
 readme = "README.md"
 homepage = "https://github.com/th0ughtcr1me/aintnobody"
