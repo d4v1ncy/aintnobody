@@ -3,6 +3,7 @@ name = "aintnobody"
 version = "0.0.0"
 edition = "2021"
 authors = ["Đ4ⱱ1ƝƇᎩ <d4v1ncy@protonmail.ch>"]
+license = "Unlicense"
 description = "Plays snippet of \"ain't nobody\" for 1284 milliseconds and die"
 documentation = "https://docs.rs/aintnobody"
 readme = "README.md"
